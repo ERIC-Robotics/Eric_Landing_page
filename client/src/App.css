@@ -1,0 +1,98 @@
+.container-fluid , .row , .col {
+  margin: 0%;
+  padding: 0%;
+}
+.container-fluid{
+  background-color: white;
+  color:rgb(3, 3, 96);
+}
+.banner_eric{
+  background-color: rgba(0, 0, 0, 0.653);
+}
+.specs_row{
+  position: absolute;
+  bottom: -33%;
+}
+
+.border{
+  color: transparent;
+}
+
+.banner_eric .row .col .btn{
+  background-color: rgb(3, 3, 96);
+  color:white
+}
+
+.specs_row .card{
+  border-right: 5px solid blue;
+  border-radius: 0px;
+  box-shadow: 2px 9px 15px -3px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 2px 9px 15px -3px rgba(0,0,0,0.75);
+  -moz-box-shadow: 2px 9px 15px -3px rgba(0,0,0,0.75);
+}
+
+
+
+.service_row .card{
+  box-shadow: 2px 9px 15px -3px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 2px 9px 15px -3px rgba(0,0,0,0.75);
+  -moz-box-shadow: 2px 9px 15px -3px rgba(0,0,0,0.75);
+}
+
+.service_row .col .row .col .color_card{
+  background-color: rgb(3, 3, 96) ;
+}
+
+.our_team_row .col{
+  margin: 10px;
+}
+
+.our_team_row .col .card img{
+  border-radius: 20px;
+  box-shadow: -1px 10px 18px 1px black;
+  -webkit-box-shadow: -1px 10px 18px 1px black;
+  -moz-box-shadow: -1px 10px 18px 1px black;
+  margin-bottom: 10px;
+}
+
+.our_team_row .col .card{
+  background-color: transparent;
+  border: none;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.our_team_row .col .card i{
+  color: rgb(2, 2, 126);
+}
+.get_in_touch_row{
+  margin-top: 80px;
+}
+.get_in_touch_row h1,.get_in_touch_row h4,.get_in_touch_row h6{
+  color: rgb(2, 2, 68);
+}
+
+.get_in_touch_row .row .col .row .form-floating input{
+  border: none;
+  border-bottom: 2px solid blue;
+  color: blue;
+} 
+
+.get_in_touch_row .row .col .row .submit{
+  background-color: rgb(3, 3, 96);
+} 
+.get_in_touch_row .row .col .row .submit{
+  width: 25%;
+}
+.get_in_touch_row .row .col .card ul li{
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  color: white;
+}
+.get_in_touch_row .row .col .card{
+  padding: 20px;
+  background-color: rgb(3, 3, 96) ;
+  color: white;
+}
+
