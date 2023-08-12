@@ -8,7 +8,9 @@ import 'animate.css';
 function App() {
 
   useEffect(() =>{
-    Aos.init({duration:1500});
+    Aos.init();
+    Aos.refresh();
+    Aos.refreshHard();
 } , []);
 
 
